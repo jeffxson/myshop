@@ -18,14 +18,14 @@
   
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jeffxson/ROUTER.git"
+    "url": "git+https://github.com/jeffxson/myshop.git"
   },
   "author": "JEFFXSON",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jeffxson/ROUTER/issues"
+    "url": "https://github.com/jeffxson/myshop/issues"
   },
-  "homepage": "https://github.com/jeffxson/ROUTER#readme",
+  "homepage": "https://github.com/jeffxson/myshop#readme",
   "dependencies": {
     "@npmcli/promise-spawn": "^1.3.2",
     "axios": "^0.21.1",
